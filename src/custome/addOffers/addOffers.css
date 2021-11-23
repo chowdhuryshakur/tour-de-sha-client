@@ -1,0 +1,21 @@
+.form{
+    font-family: 'Poppins', sans-serif;
+    padding: 50px 0 0 0;
+    width: 40%;
+}
+.input{
+    display: block;
+    margin-bottom: 15px;
+    width: 350px;
+    height: 40px;
+    padding: 10px;
+}
+.button-book{
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 15px;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+}

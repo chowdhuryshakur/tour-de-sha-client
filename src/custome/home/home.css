@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.title{
+    color: orange;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.sub-title{
+    color: #2D2E40 !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+.button{
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 15px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.review-pic{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 50% !important;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "61500bc49fecf8269038f92b",
+        "hadiya": 1800,
+        "picture": "https://images.unsplash.com/photo-1604093882750-3ed498f3178b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbCUyMHNjZW5lcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "name": "HillTract",
+        "desc": "Trauma and non-trauma medical and surgical emergencies round the clock at the ground floor in level-1 of the hospital with a separate entrance.",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc4fa4d0a69c49017a3",
+        "hadiya": 2500000,
+        "picture": "https://images.unsplash.com/photo-1596570630094-43ddbe073a77?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJhbCUyMHNjZW5lcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "name": "The Riverside",
+        "desc": "An intensive care unit, or ICU, is a specialized section of a hospital that provides comprehensive and continuous care for persons who are critically ill ",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc465de75cdadd96e57",
+        "hadiya": 8000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HJIo8_8xEnuUgHHXeqDLIV7vA9w-_WuCpI6hB7MTqLtePPUdp6dLpL3OOJem8dl3Gx0&usqp=CAU",
+        "name": "Rain forest",
+        "desc": "Dialysis is primarily used as renal replacement therapy to provide an artificial replacement for lost kidney function due to renal failure.",
+        "ratings": 3
+    },
+    {
+        "_id": "61500bc412fdb8e2af171a5d",
+        "hadiya": 350000,
+        "picture": "https://w0.peakpx.com/wallpaper/745/516/HD-wallpaper-mountains-river-natural-scenery.jpg",
+        "name": "Hilley hill",
+        "desc": "We ensure about all types of surgery support of modern technology including C-arm, Operating microscope, Arthroscopy etc.",
+        "ratings": 5
+    },
+    {
+        "_id": "61500bc4bfae33d32aca8fd2",
+        "hadiya": 200000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SOSytYgxsj-N0toOWfhISKzmuMAQRRH7Hw&usqp=CAU",
+        "name": "Cardiac center",
+        "desc": "Cardiac problems are very common now a days all over the world. It is also the number one cause of morbidity and mortality in Bangladesh.",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc4846a1cd45c301482",
+        "hadiya": 8500,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEycLQxIBGFGvvcN7nxqE-nsYi6QJ49fQ0WEbENW3ZSMwh6PUQfyDU2wWMEZ-48Rhur0&usqp=CAU",
+        "name": "MRI",
+        "desc": "MRI is a megnatic resonance picture taking system o f brain. It helps the docotors to findout the problem of brain tissue and detect them to cure.",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc412a69497abecccbe",
+        "hadiya": 30000,
+        "picture": "https://image.shutterstock.com/image-photo/sterilized-surgical-instruments-tools-on-260nw-1529861168.jpg",
+        "name": "CSSD",
+        "desc": "We have CSSD auto clave unit for destruction of any harmful organisms. We have no infection for surgical complication.",
+        "ratings": 4
+    }
+]

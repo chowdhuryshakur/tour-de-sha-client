@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.form-login{
+    min-height: 68vh;
+}
+.goog{
+    width: 300px;
+    justify-content: center;
+    color: white;
+    background-color: #4D82E5;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.he{
+    font-size: 22px;
+    font-weight: bold;
+}
+.img{
+    width: 25%;
+    margin-right: 10px;
+}
